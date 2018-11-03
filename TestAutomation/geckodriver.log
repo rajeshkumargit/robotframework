@@ -1,0 +1,54 @@
+1541214002666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RAJESH~1\\AppData\\Local\\Temp\\rust_mozprofile.vwIrN3miLMZo"
+1541214004670	Marionette	INFO	Listening on port 55842
+1541214004783	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541214004817	Marionette	DEBUG	[6442450945] Frame script loaded
+1541214004820	Marionette	DEBUG	[6442450945] Frame script registered
+1541214004865	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1541214005339	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1541214006115	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/
+1541214008454	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/
+1541214009412	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.amazon.com/
+1541214009772	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.amazon.com/
+1541214009775	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.amazon.com/
+1541214010194	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450949
+1541214010195	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450951
+1541214011195	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=assasins+creed+odyssey
+1541214011234	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=assasins+creed+odyssey
+1541214011399	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=assasins+creed+odyssey
+1541214011714	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=assasins+creed+odyssey
+1541214011717	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=assasins+creed+odyssey
+1541214012045	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450954
+1541214013500	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/Assassins-Creed-Odyssey-Deluxe-Xbox-One/dp/B07DKMM74Y/ref=sr_1_2?ie=UTF8&qid=1541214009&sr=8-2&keywords=assasins+creed+odyssey
+1541214015086	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/Assassins-Creed-Odyssey-Deluxe-Xbox-One/dp/B07DKMM74Y/ref=sr_1_2?ie=UTF8&qid=1541214009&sr=8-2&keywords=assasins+creed+odyssey
+1541214015238	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.amazon.com/Assassins-Creed-Odyssey-Deluxe-Xbox-One/dp/B07DKMM74Y/ref=sr_1_2?ie=UTF8&qid=1541214009&sr=8-2&keywords=assasins+creed+odyssey
+1541214016135	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.amazon.com/Assassins-Creed-Odyssey-Deluxe-Xbox-One/dp/B07DKMM74Y/ref=sr_1_2?ie=UTF8&qid=1541214009&sr=8-2&keywords=assasins+creed+odyssey
+1541214016146	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.amazon.com/Assassins-Creed-Odyssey-Deluxe-Xbox-One/dp/B07DKMM74Y/ref=sr_1_2?ie=UTF8&qid=1541214009&sr=8-2&keywords=assasins+creed+odyssey
+JavaScript error: resource:///modules/PageStyleHandler.jsm, line 54: NS_NOINTERFACE: Component returned failure code: 0x80004002 (NS_NOINTERFACE) [nsIInterfaceRequestor.getInterface]
+1541214016450	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450966
+1541214016450	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1541214016451	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450962
+1541214016452	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450968
+1541214016452	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450956
+1541214016453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450957
+1541214016453	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450958
+1541214016454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450970
+1541214016454	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450971
+1541214016669	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/gp/product/handle-buy-box/ref=dp_start-bbf_1_glance
+1541214017199	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cf1b85ca2-6aaa-4778-98dd-6e887e9169d8%2C1
+1541214017306	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cf1b85ca2-6aaa-4778-98dd-6e887e9169d8%2C1
+1541214017607	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cf1b85ca2-6aaa-4778-98dd-6e887e9169d8%2C1
+1541214017610	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.amazon.com/gp/huc/view.html?ie=UTF8&newItems=Cf1b85ca2-6aaa-4778-98dd-6e887e9169d8%2C1
+1541214017716	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450974
+1541214018456	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.amazon.com/gp/cart/view.html/ref=lh_cart
+1541214019751	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.amazon.com/gp/cart/view.html/ref=lh_cart
+1541214022879	Marionette	INFO	Stopped listening on port 55842
+[Child 7300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win[Parent 14984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 14984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 5152, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
