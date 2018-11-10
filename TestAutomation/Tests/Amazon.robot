@@ -18,6 +18,7 @@ ${DESIRED_CAPABILITIES}
 Users should be required to sign in when checking out
     [Documentation]  This is some basic information about the test
     [Tags]  Smoke
+    # Test Test
     open browser  http://www.amazon.com  remote_url=${REMOTE_URL}  desired_capabilities=${DESIRED_CAPABILITIES}
     wait until page contains  Your Amazon.com
     input text  id=twotabsearchtextbox  assasins creed odyssey
